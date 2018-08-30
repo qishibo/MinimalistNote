@@ -115,6 +115,11 @@ var qii404 = {
             return;
         }
 
+        // 保险措施，防止意外情况下清空内功
+        if (!value || !value.replace(/\s/g, '')) {
+            return;
+        }
+
         this.lastTime = nowTime;
 
         chrome.storage.sync.set({[this.storageKey]: value}, function() {
