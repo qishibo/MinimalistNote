@@ -14,3 +14,8 @@ Chrome下简单好用的便签应用，支持多设备的数据同步，只需�
 1. [谷歌商店](https://chrome.google.com/webstore/detail/mphjafgkghiiblgpmbidkpmaneejgacj)，不过由于Chrome App已经不能在非Chrome OS上运行，所以Mac Linux Windows会显示不兼容
 2. 手动安装 勾选开发者模式，加载已解压的文件夹，选择即可
 ![手动安装](http://7xsudm.com1.z0.glb.clouddn.com/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20180211152509.png)
+
+## Tips
+
+1. 为了防止意外操作导致内容丢失，便签内容为空时(如故意删除所有内容)会忽略存档过程，即清空不生效。删除至只保留一个字符串即可。
+2. 由于chrome浏览器自身限制，卸载拓展后，之前保存的内容将会丢失。
