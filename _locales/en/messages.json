@@ -1,8 +1,8 @@
 {
     "title": {
-        "message": "Minimalist Note"
+        "message": "Simple Note"
     },
     "description": {
-        "message": "The Minimalist Note Application on Chrome, Which Content Will Be Synchronized Across Devices With A Same Google Account"
+        "message": "A simple note, which can be booted as a standalone desktop app, content will be automatically synced under the same Google account"
     }
 }

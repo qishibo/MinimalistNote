@@ -17,4 +17,9 @@ body{
     height: 99%;
     background: #F0FFA5;
     overflow-y: auto;
+    border: 0px;
+}
+
+#main-content:focus{
+    outline: none;
 }
